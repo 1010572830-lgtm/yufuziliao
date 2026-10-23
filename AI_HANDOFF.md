@@ -11,3 +11,7 @@
 9. 本仓库不含后台账号、密钥、库存接口或自动发布凭证。不能凭本仓库访问其他系统。
 
 数据快照：2026-10-01。交接整理：2026-10-23。
+
+## 执行入口
+
+批量正文见 data/public-materials.json，出处索引见 data/source-index.json。执行步骤见 publishing/执行清单.md，真实发布结果写入 publishing/publication-receipts.json。可运行 tools/verify_public_bundle.py 检查正文与数据包一致性；工具不联网核验来源，也不执行平台发布。
