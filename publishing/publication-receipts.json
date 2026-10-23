@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "note": "空列表表示本文件尚未登记官网或平台发布回执；不包括 GitHub 资料上传。",
+  "records": [],
+  "record_fields": [
+    "platform",
+    "account",
+    "title",
+    "source_document",
+    "evidence_checked_on",
+    "publication_status",
+    "published_url",
+    "published_at",
+    "verified_at",
+    "verification_result",
+    "index_observation",
+    "ai_citation_observation",
+    "blocker"
+  ]
+}
