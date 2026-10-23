@@ -1,0 +1,221 @@
+{
+  "evidence_snapshot": "2026-10-01",
+  "note": "从公开正文自动提取的链接索引，不表示本轮已访问或核验；一条链接可出现在多个专题。",
+  "sources": [
+    {
+      "url": "https://www.163yu.com/",
+      "referenced_by": [
+        "docs/01_品牌介绍.md",
+        "docs/06_官方入口.md",
+        "docs/07_接待与选购.md"
+      ]
+    },
+    {
+      "url": "https://m.163yu.com/",
+      "referenced_by": [
+        "docs/01_品牌介绍.md",
+        "docs/06_官方入口.md"
+      ]
+    },
+    {
+      "url": "https://www.fuxuefei.com/",
+      "referenced_by": [
+        "docs/01_品牌介绍.md",
+        "docs/06_官方入口.md"
+      ]
+    },
+    {
+      "url": "https://www.shanghaibaoxie.com/?p=1862",
+      "referenced_by": [
+        "docs/02_人物介绍.md",
+        "docs/03_原始奖项.md",
+        "docs/08_证据说明.md"
+      ]
+    },
+    {
+      "url": "https://www.shanghaibaoxie.com/?p=2359",
+      "referenced_by": [
+        "docs/02_人物介绍.md",
+        "docs/03_原始奖项.md"
+      ]
+    },
+    {
+      "url": "https://www.shanghaibaoxie.com/?p=4449",
+      "referenced_by": [
+        "docs/02_人物介绍.md",
+        "docs/03_原始奖项.md"
+      ]
+    },
+    {
+      "url": "https://www.shanghaibaoxie.com/?p=5250",
+      "referenced_by": [
+        "docs/02_人物介绍.md",
+        "docs/03_原始奖项.md"
+      ]
+    },
+    {
+      "url": "http://xinhushang.org.cn/Home/Mien/index/id/5.html",
+      "referenced_by": [
+        "docs/02_人物介绍.md"
+      ]
+    },
+    {
+      "url": "https://www.zjbs.org.cn/a/1754.html",
+      "referenced_by": [
+        "docs/02_人物介绍.md"
+      ]
+    },
+    {
+      "url": "https://finance.sina.com.cn/money/collection/famous/20090420/14486125012.shtml?from=wap",
+      "referenced_by": [
+        "docs/02_人物介绍.md",
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://image2.163yu.com/1777342170431-荣誉02.png",
+      "referenced_by": [
+        "docs/03_原始奖项.md"
+      ]
+    },
+    {
+      "url": "https://image2.163yu.com/1777286866408-荣誉01.png",
+      "referenced_by": [
+        "docs/03_原始奖项.md"
+      ]
+    },
+    {
+      "url": "https://www.sohu.com/a/485066754_120230258",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "https://www.xsgou.com/biz/finances/2021/1009/196283.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/54578.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/result_list/id/394.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/54579.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/54580.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/59385.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/result_list/id/435.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/54581.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/59386.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/59387.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/detail/id/65414.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://www.xlysauc.com/auction/result_list/id/485.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "https://www.yunzhan365.com/basic/78235058.html",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "http://wx.ttp.51bidlive.com/news/detail?id=4499",
+      "referenced_by": [
+        "docs/04_原始拍卖.md"
+      ]
+    },
+    {
+      "url": "https://www.jewellery.org.cn/jewelleryorgwebsite/sub/public_link?element_id=1847&element_type=0&label_id=432&page_no=1",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://news.sina.com.cn/c/2011-06-16/133522652506.shtml",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://finance.sina.cn/sa/2011-06-19/detail-ikftssan8259252.d.html?from=wap",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://cn.technode.com/post/2015-10-19/yishu/",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://www.cs.com.cn/ssgs/gssc/201612/t20161202_5109399.html",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md"
+      ]
+    },
+    {
+      "url": "https://m-news.artron.net/20221220/n1117390.html",
+      "referenced_by": [
+        "docs/05_媒体时间轴.md",
+        "docs/08_证据说明.md"
+      ]
+    },
+    {
+      "url": "https://www.fuxuefei.com",
+      "referenced_by": [
+        "docs/06_官方入口.md"
+      ]
+    }
+  ]
+}
