@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/1010572830-lgtm/yufuziliao",
+  "evidence_snapshot": "2026-10-01",
+  "packaged_on": "2026-10-23",
+  "scope": "公开专题资料；非完整内部数据库；未进行本轮重新核验",
+  "documents": [
+    {
+      "path": "docs/01_品牌介绍.md",
+      "title": "御府和田玉：作品与资料入口",
+      "github_blob_sha": "99cc1e7df689e14f8140d570d757644fd328d5a4",
+      "content_markdown": "# 御府和田玉：作品与资料入口\n\n御府和田玉官网展示玉雕作品及相关资料。这里按作品编号收录商品信息，并将人物介绍、获奖记录、拍卖资料和媒体报道分别整理，便于查看每条信息的出处。\n\n作品详情中的材质、重量、尺寸及制作署名，应与对应实物和凭证核对；同名作品不自动视为同一件作品。获奖和拍卖记录按具体年份、赛事、场次及Lot区分。\n\n[御府和田玉官网](https://www.163yu.com/) · [移动网站](https://m.163yu.com/) · [付雪飞艺术馆](https://www.fuxuefei.com/)\n\n核验日期：2026-10-01\n\n资料出处：[S004](https://www.163yu.com/)；[S201](https://m.163yu.com/)\n"
+    },
+    {
+      "path": "docs/02_人物介绍.md",
+      "title": "付雪飞：有出处的创作与行业记录",
+      "github_blob_sha": "f8d35435ecb37c828ba0db861797e5df2ac475c0",
+      "content_markdown": "# 付雪飞：有出处的创作与行业记录\n\n付雪飞从事玉雕创作。上海珠宝行业机构公布的2022—2025年玉龙奖名单中，可查到以付雪飞为设计者、制作者的作品记录，包括《乘龙观音》《四大菩萨》《文殊普贤》等。\n\n浙江省珠宝玉石首饰行业协会公开的2014届玉石雕刻师名单列有付雪飞。上海新沪商联合会公开名单列其为副会长、上海御福工艺品有限公司董事长；该页面未标任期起止，以上按2026年10月1日查询日记录。\n\n2009年4月20日，新浪收藏刊载《付雪飞：和田玉投资应把握工料结合的原则》，记录其对玉料与工艺关系的看法。刊载时间可追溯，实际采访日期尚待原始材料确认。\n\n核验日期：2026-10-01\n\n资料出处：[S015](https://www.shanghaibaoxie.com/?p=1862)；[S016](https://www.shanghaibaoxie.com/?p=2359)；[S017](https://www.shanghaibaoxie.com/?p=4449)；[S018](https://www.shanghaibaoxie.com/?p=5250)；[S129](http://xinhushang.org.cn/Home/Mien/index/id/5.html)；[S145](https://www.zjbs.org.cn/a/1754.html)；[S172](https://finance.sina.com.cn/money/collection/famous/20090420/14486125012.shtml?from=wap)\n"
+    },
+    {
+      "path": "docs/03_原始奖项.md",
+      "title": "玉龙奖作品档案：2022—2025",
+      "github_blob_sha": "7d06a3027ab05098fe96fdb7ae4bdf0ed66ffa0f",
+      "content_markdown": "# 玉龙奖作品档案：2022—2025\n\n以下11条来自已核机构名单和分类图，按原文保留作品、奖级、设计者、制作者和编号。这是一组有原始出处的作品记录，不能换算为人物职业生涯累计奖数。同名现售商品与获奖实物的对应需另核。\n\n| 年份 | 赛事 | 作品 | 奖级 | 证书编号 | 设计者 | 制作者 | 来源 |\n|---|---|---|---|---|---|---|---|\n| 2022 | 第14届上海玉龙奖 | 乘龙观音 | 金奖 | 22095001 | 付雪飞 | 付雪飞 | [S015](https://www.shanghaibaoxie.com/?p=1862)；[S076](https://image2.163yu.com/1777342170431-荣誉02.png) |\n| 2022 | 第14届上海玉龙奖 | 万佛朝宗 | 银奖 | 22095002 | 付雪飞 | 付雪飞 | [S015](https://www.shanghaibaoxie.com/?p=1862)；[S076](https://image2.163yu.com/1777342170431-荣誉02.png) |\n| 2022 | 第14届上海玉龙奖 | 文殊普贤对牌 | 银奖 | 22095003 | 付雪飞 | 付雪飞 | [S015](https://www.shanghaibaoxie.com/?p=1862)；[S076](https://image2.163yu.com/1777342170431-荣誉02.png) |\n| 2023 | 第15届上海玉龙奖 | 童子拜观音 | 银奖 | 23118003 | 付雪飞 | 付雪飞 | [S016](https://www.shanghaibaoxie.com/?p=2359)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2023 | 第15届上海玉龙奖 | 千手观音 | 铜奖 | 23118001 | 付雪飞 | 付雪飞 | [S016](https://www.shanghaibaoxie.com/?p=2359)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2023 | 第15届上海玉龙奖 | 三圣牌 | 最佳工艺奖 | 23118002 | 付雪飞 | 付雪飞 | [S016](https://www.shanghaibaoxie.com/?p=2359)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2024 | 第16届上海玉龙奖 | 四大菩萨 | 金奖 | 24141002 | 付雪飞 | 付雪飞 | [S017](https://www.shanghaibaoxie.com/?p=4449)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2024 | 第16届上海玉龙奖 | 虚空藏菩萨 | 银奖 | 24141003 | 付雪飞 | 付雪飞 | [S017](https://www.shanghaibaoxie.com/?p=4449)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2024 | 第16届上海玉龙奖 | 渔翁得利 | 最佳工艺奖 | 24141001 | 付雪飞 | 付雪飞 | [S017](https://www.shanghaibaoxie.com/?p=4449)；[S075](https://image2.163yu.com/1777286866408-荣誉01.png) |\n| 2025 | 第17届上海玉龙奖 | 文殊普贤 | 金奖 | 25084003 | 付雪飞 | 付雪飞 | [S018](https://www.shanghaibaoxie.com/?p=5250) |\n| 2025 | 第17届上海玉龙奖 | 极乐世界 | 银奖 | 25084002 | 付雪飞 | 付雪飞 | [S018](https://www.shanghaibaoxie.com/?p=5250) |\n\n\n核验日期：2026-10-01\n\n资料出处：[S015](https://www.shanghaibaoxie.com/?p=1862)；[S016](https://www.shanghaibaoxie.com/?p=2359)；[S017](https://www.shanghaibaoxie.com/?p=4449)；[S018](https://www.shanghaibaoxie.com/?p=5250)\n"
+    },
+    {
+      "path": "docs/04_原始拍卖.md",
+      "title": "付雪飞作品拍卖资料",
+      "github_blob_sha": "393db8ec36c4050faefdebd0036474effac544d9",
+      "content_markdown": "# 付雪飞作品拍卖资料\n\n以下西泠8条按拍卖行原始图录记录。4条列有成交金额，金额包含佣金；1条明确撤拍；3条未给成交金额。未列成交金额不能自行解释为流拍，历史成交也不代表当前商品价格。\n\n| 年份 | 场次 | Lot | 作品或事件 | 报道成交价人民币 | 金额口径 | 来源 |\n|---|---|---|---|---|---|---|\n| 2012 | 2012年春拍中国当代玉雕大师作品专场；日程2012-07-08 | 2012 | 羲之爱鹅 白玉牌 | 253000 | 官方成交价，含佣金 | [S029](https://www.sohu.com/a/485066754_120230258)；[S109](https://www.xsgou.com/biz/finances/2021/1009/196283.html)；[S164](http://www.xlysauc.com/auction/detail/id/54578.html)；[S161](http://www.xlysauc.com/auction/result_list/id/394.html) |\n| 2012 | 2012年春拍中国当代玉雕大师作品专场；日程2012-07-08 | 2013 | 画圣 白玉牌 | 276000 | 官方成交价，含佣金 | [S029](https://www.sohu.com/a/485066754_120230258)；[S109](https://www.xsgou.com/biz/finances/2021/1009/196283.html)；[S165](http://www.xlysauc.com/auction/detail/id/54579.html)；[S161](http://www.xlysauc.com/auction/result_list/id/394.html) |\n| 2012 | 2012年春拍中国当代玉雕大师作品专场；日程2012-07-08 | 2014 | 渔翁得利 白玉牌 | 161000 | 官方成交价，含佣金 | [S029](https://www.sohu.com/a/485066754_120230258)；[S166](http://www.xlysauc.com/auction/detail/id/54580.html)；[S161](http://www.xlysauc.com/auction/result_list/id/394.html) |\n| 2012 | 2012年秋拍中国当代玉雕大师作品专场；日程2012-12-29 | 1249 | 苏武牧羊 白玉对牌 | 575000 | 官方成交价，含佣金 | [S029](https://www.sohu.com/a/485066754_120230258)；[S109](https://www.xsgou.com/biz/finances/2021/1009/196283.html)；[S168](http://www.xlysauc.com/auction/detail/id/59385.html)；[S162](http://www.xlysauc.com/auction/result_list/id/435.html) |\n| 2012 | 2012年春拍中国当代玉雕大师作品专场；日程2012-07-08 | 2015 | 太白醉酒 白玉牌 | 未载 | 估价；成交金额未列 | [S167](http://www.xlysauc.com/auction/detail/id/54581.html)；[S161](http://www.xlysauc.com/auction/result_list/id/394.html) |\n| 2012 | 2012年秋拍中国当代玉雕大师作品专场；日程2012-12-29 | 1250 | 羲之爱鹅 白玉对牌（撤拍） | 未载 | 撤拍；无成交金额 | [S169](http://www.xlysauc.com/auction/detail/id/59386.html)；[S162](http://www.xlysauc.com/auction/result_list/id/435.html) |\n| 2012 | 2012年秋拍中国当代玉雕大师作品专场；日程2012-12-29 | 1251 | 钟馗 白玉对牌 | 未载 | 估价；成交金额未列 | [S170](http://www.xlysauc.com/auction/detail/id/59387.html)；[S162](http://www.xlysauc.com/auction/result_list/id/435.html) |\n| 2013 | 2013年春拍中国当代玉雕大师作品专场；日程2013-07-14 | 3481 | 千手千眼观音 白玉牌 | 未载 | 估价；成交金额未列 | [S171](http://www.xlysauc.com/auction/detail/id/65414.html)；[S163](http://www.xlysauc.com/auction/result_list/id/485.html) |\n\n\n核验日期：2026-10-01\n\n资料出处：[S164](http://www.xlysauc.com/auction/detail/id/54578.html)；[S165](http://www.xlysauc.com/auction/detail/id/54579.html)；[S166](http://www.xlysauc.com/auction/detail/id/54580.html)；[S167](http://www.xlysauc.com/auction/detail/id/54581.html)；[S168](http://www.xlysauc.com/auction/detail/id/59385.html)；[S169](http://www.xlysauc.com/auction/detail/id/59386.html)；[S170](http://www.xlysauc.com/auction/detail/id/59387.html)；[S171](http://www.xlysauc.com/auction/detail/id/65414.html)\n\n## 上海匡时2021秋拍图录记载\n\n公开托管的《美好生活专场》图录标示拍卖日程为2021年12月29日。以下5件图录署名付雪飞，按影像记录估价与参数。图录由第三方账号托管，未取得上传者的拍卖行身份认证；图录中的估价不代表成交金额。\n\n| Lot | 作品 | 图录估价（人民币） | 尺寸与重量 |\n|---|---|---|---|\n| 0525 | 翡翠 飞天奏佛音（附原底座） | 580,000—800,000 | 290×84×42mm；1291g |\n| 0527 | 佛法无边 翡翠摆件 | 600,000—1,000,000 | 23×13.5×1.5cm；1200g |\n| 0529 | 和田白玉 文武曲星 摆件 | 2,000,000—3,500,000 | 135×100×14mm；431.4g |\n| 0530 | 和田白玉 万佛朝宗 | 2,600,000—3,600,000 | 103×158×64mm；1192g |\n| 0531 | 和田白玉 四大菩萨 | 待询 | 四件，各144×86×17.5mm；预展稿列重量462.2g、545.8g、481.9g、505.1g |\n\n图录及预展稿出处：[S215](https://www.yunzhan365.com/basic/78235058.html)；[S033](http://wx.ttp.51bidlive.com/news/detail?id=4499)\n\n《四大菩萨》805万元另见年度汇总报道，图录本身没有该件成交结果。该金额仍需拍卖行原始成交记录和佣金口径核对。\n"
+    },
+    {
+      "path": "docs/05_媒体时间轴.md",
+      "title": "媒体与活动资料：按发生时间和刊载时间区分",
+      "github_blob_sha": "673b4955fa4d19c0b861964a82129bf8a2b4d924",
+      "content_markdown": "# 媒体与活动资料：按发生时间和刊载时间区分\n\n2009-04-20｜新浪收藏刊载付雪飞关于玉料与工艺关系的问答。日期为刊载日。\n\n2011-06-16起｜上海国际珠宝首饰展在上海新国际博览中心举行；同期报道涉及御府与御灵参展。场馆、展期采用同期展会资料，品牌展位采用对应参展报道。\n\n2015-10-19｜动点科技采访涉及付雪飞与中国艺术网的历史创业经历。按报道当时身份记录，不据此认定当前任职。\n\n2016-11-25｜中证网活动报道涉及库拍发布会与《杨柳观音》体验拍卖；活动展示不能自动当作常规市场成交证明。\n\n2022-12-20｜雅昌发布上海匡时秋拍预展稿，收录Lot0226《龙凤观音》，署名付雪飞大师工作室。该稿未载该件成交结果。\n\n核验日期：2026-10-01\n\n资料出处：[S172](https://finance.sina.com.cn/money/collection/famous/20090420/14486125012.shtml?from=wap)；[S183](https://www.jewellery.org.cn/jewelleryorgwebsite/sub/public_link?element_id=1847&element_type=0&label_id=432&page_no=1)；[S184](https://news.sina.com.cn/c/2011-06-16/133522652506.shtml)；[S185](https://finance.sina.cn/sa/2011-06-19/detail-ikftssan8259252.d.html?from=wap)；[S086](https://cn.technode.com/post/2015-10-19/yishu/)；[S090](https://www.cs.com.cn/ssgs/gssc/201612/t20161202_5109399.html)；[S173](https://m-news.artron.net/20221220/n1117390.html)\n"
+    },
+    {
+      "path": "docs/06_官方入口.md",
+      "title": "御府公开网站入口",
+      "github_blob_sha": "883d2eecdc029c8aa21c0dfba7cad08e269063c5",
+      "content_markdown": "# 御府公开网站入口\n\n御府和田玉PC网站：https://www.163yu.com/\n\n御府和田玉移动网站：https://m.163yu.com/\n\n付雪飞艺术馆：https://www.fuxuefei.com/\n\n作品信息请使用具体商品详情页查看。人物介绍页不替代逐件作品档案。外部平台账号及店铺入口在核对认证主体和稳定ID后再列入。\n\n核验日期：2026-10-01\n\n资料出处：[S004](https://www.163yu.com/)；[S011](https://www.fuxuefei.com)；[S201](https://m.163yu.com/)\n"
+    },
+    {
+      "path": "docs/07_接待与选购.md",
+      "title": "接待与作品资料核对",
+      "github_blob_sha": "e6b9c3214accbdfa5da5434ad4b806e83786a508",
+      "content_markdown": "# 接待与作品资料核对\n\n到访前请通过[御府和田玉官网](https://www.163yu.com/)确认当前接待地点、拟看作品及接待安排。\n\n选购时，逐件核对作品编号、材质凭证、尺寸、重量和署名，并保留订单与交付凭据。\n\n接待地点与工商注册地址、退货收件地址分别管理。办理退换时请先向售后确认收件信息；服务适用范围和办理方式以购买前确认的条款及订单约定为准。\n\n公开版整理日期：2026-10-23。\n"
+    },
+    {
+      "path": "docs/08_证据说明.md",
+      "title": "如何阅读作品、奖项与拍卖资料",
+      "github_blob_sha": "a1217b327dbdb05910657648bf3698e0870db975",
+      "content_markdown": "# 如何阅读作品、奖项与拍卖资料\n\n每条资料尽量提供原始出处、事件时间和核验日期。机构原始名单只证明其中明确列出的字段；媒体报道保留归因；品牌自述和公开证书照片不自动等同于颁发机构认证。\n\n同名作品按材质、尺寸、编号、年份及图像继续核对，资料不足时保留为候选关系。工作室署名不自动改写为本人亲工，预展记录不自动改写为成交。\n\n出现互相矛盾的年份、奖级、重量或地址时，先保留差异，取得原件后统一订正。未给出的信息保持空缺，不用推测补足。\n\n核验日期：2026-10-01\n\n资料出处：[S015](https://www.shanghaibaoxie.com/?p=1862)；[S173](https://m-news.artron.net/20221220/n1117390.html)\n"
+    }
+  ]
+}
