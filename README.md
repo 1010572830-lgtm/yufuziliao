@@ -15,6 +15,13 @@
 - [07_接待与选购](docs/07_接待与选购.md)
 - [08_证据说明](docs/08_证据说明.md)
 
+## 御府00—10管理体系
+
+- [00—10公开管理总入口](management/README.md)
+- [当前状态](management/STATUS.md)
+- [AI管理交接说明](management/AI_HANDOFF.md)
+- [机器可读00—10索引](management/00-10/index.json)
+
 ## 给 AI 的入口
 
 请先读 [AI_HANDOFF.md](AI_HANDOFF.md)，再按主题读取 docs 目录。每篇保留出处；历史拍卖估价、成交金额、撤拍及未载成交结果分别表述。
