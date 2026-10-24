@@ -1,0 +1,72 @@
+{
+  "schema": "yufu-management-00-10-v1",
+  "uploaded_at": "2026-10-25",
+  "snapshot_basis": "public-safe management snapshot",
+  "public_safe": true,
+  "operating_goal": "真实发布→真实咨询→真实货品→真实订单→真实回款→可追溯复盘",
+  "centers": [
+    {
+      "id": "00",
+      "name": "中央事实库",
+      "file": "00_中央事实库.md"
+    },
+    {
+      "id": "01",
+      "name": "总控中心",
+      "file": "01_总控中心.md"
+    },
+    {
+      "id": "02",
+      "name": "GEO与AI搜索",
+      "file": "02_GEO与AI搜索.md"
+    },
+    {
+      "id": "03",
+      "name": "内容与IP",
+      "file": "03_内容与IP.md"
+    },
+    {
+      "id": "04",
+      "name": "全网发布",
+      "file": "04_全网发布.md"
+    },
+    {
+      "id": "05",
+      "name": "私域销售",
+      "file": "05_私域销售.md"
+    },
+    {
+      "id": "06",
+      "name": "数据复盘",
+      "file": "06_数据复盘.md"
+    },
+    {
+      "id": "07",
+      "name": "商品库存",
+      "file": "07_商品库存.md"
+    },
+    {
+      "id": "08",
+      "name": "经营财务",
+      "file": "08_经营财务.md"
+    },
+    {
+      "id": "09",
+      "name": "AI执行",
+      "file": "09_AI执行.md"
+    },
+    {
+      "id": "10",
+      "name": "组织人力",
+      "file": "10_组织人力.md"
+    }
+  ],
+  "excluded_public_data": [
+    "客户联系方式",
+    "员工工资",
+    "商品成本底价",
+    "账号密码/API密钥",
+    "银行与支付明细",
+    "未授权原件"
+  ]
+}
